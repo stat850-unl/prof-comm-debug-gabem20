@@ -47,19 +47,19 @@ Then, using what you know about R and Python, try to debug the problem using the
 
 1. Are the question and problem description complete?
 
-> <!-- Your answer here -->
+> Yes, given the goal it sounds like it does.
 
 2. Is the issue reproducible? Does it have a description of the problem, with code that reproduces the problem? What could improve it?
 
-> <!-- Your answer here -->
+> The problem is less of an error that would occur but rather code that isn't producing desired results. Given the code, to test one could create their own meal vector and test the function.
 
 3. Is the example minimal? Does it include extra code or information that is not necessary?
 
-> <!-- Your answer here -->
+> It is minimal as it only includes the code for the given problem and nothing extra.
 
 4. Does the question describe any attempted solutions?
 
-> <!-- Your answer here -->
+> No, it doesn't. Just the written function and what is supposed to happen.
 
 
 ## Function not working R
@@ -99,19 +99,19 @@ mean(z$nitrate,na.rm=TRUE)
 
 1. Are the question and problem description complete?
 
-> <!-- Your answer here -->
+> The provided question isn't complete and requires the reader to look further into the code to see what the poster is attempting to achieve.
 
 2. Is the issue reproducible? Does it have a description of the problem, with code that reproduces the problem? What could improve it?
 
-> <!-- Your answer here -->
+> The provided code isn't necessarily reproducible for a reader because it is based on the posters directory. The reader provides code that works but isn't the same to the problem code. Attempt to create the issue with other data or ensure the example code provided is more similar to the problem.
 
 3. Is the example minimal? Does it include extra code or information that is not necessary?
 
-> <!-- Your answer here -->
+> I would say it is pretty minimal. The provided working code could be viwed as extra, however, this is a good reference to the issues in the function error.
 
 4. Does the question describe any attempted solutions?
 
-> <!-- Your answer here -->
+> It doesn't describe any attempted solutions.
 
 
 ## Inexplicable error when trying to export my R notebook
@@ -140,7 +140,7 @@ You can find this sample file [here](https://raw.githubusercontent.com/unl-stati
 
 1. Are the question and problem description complete?
 
-> <!-- Your answer here -->
+> I think the description of the problem is sufficient. It shows the error and explains what is expected. It would be assumed that a reader would have experience with markdown files so they understand what compiling a file is.
 
 2. Is the issue reproducible? Does it have a description of the problem, with code that reproduces the problem? What could improve it?
 

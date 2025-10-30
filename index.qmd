@@ -144,15 +144,16 @@ You can find this sample file [here](https://raw.githubusercontent.com/unl-stati
 
 2. Is the issue reproducible? Does it have a description of the problem, with code that reproduces the problem? What could improve it?
 
-> <!-- Your answer here -->
+> It is not reproducible because the files are local. The line of code producing the proposed problem is specified along with the error. It is helpful because code prior to and following the proposed error is helpful. After further inspectiont the error occurs in the loading of the packages. Packages in R must be loaded in with separate library function calls.
+
 
 3. Is the example minimal? Does it include extra code or information that is not necessary?
 
-> <!-- Your answer here -->
+> I believe it is minimal given the posters concern.
 
 4. Does the question describe any attempted solutions?
 
-> <!-- Your answer here -->
+> The poster does mention sanity checks of the filter function, the data used, and spelling.
 
 
 ## Python if elif else statement
@@ -195,21 +196,24 @@ if country == "Canada":
 
 ---
 
+
 1. Are the question and problem description complete?
 
-> <!-- Your answer here -->
+> I think the question is phrased well enough, however, people in the comments seem to disagree. The poster is having trouble where the if statement function created will return the first passed condition no matter what. 
 
 2. Is the issue reproducible? Does it have a description of the problem, with code that reproduces the problem? What could improve it?
 
-> <!-- Your answer here -->
+> The entire code is available to use, so yes it is reproducible and can be ran locally. The problem isn't an error that can be shown but rather an issue in the functionality. I think enough is provided to determine the problem. The problem is with comparing strings as if they were integers, so a conversion on the inputs and comparion values must be appplied.
 
 3. Is the example minimal? Does it include extra code or information that is not necessary?
 
-> <!-- Your answer here -->
+> It is minimal and contains all necessary information.
 
 4. Does the question describe any attempted solutions?
 
-> <!-- Your answer here -->
+> There doesn't seem to be any provided attempts at solution.
+
+
 
 
 # Professional Communication

@@ -1,0 +1,30 @@
+---
+title: "Personal Slides"
+format: 
+  beamer: default
+  revealjs: default
+editor: visual
+---
+
+# Introduction Slides
+
+## About Me
+
+Hi my name is Gabe Macklem. I am from Denver, Colorado and received my Bachelors in Statistics from Colorado State University. In my free time, I enjoy being outside, working out, spending time with friends, and watching sports. 
+
+
+## Favorite Animal
+
+My favorite animal would have to be either a moose or mountain lion. No particular reason other than I think they are cool!
+
+![Favorite Animal](generated-image-1.png)
+
+## Favorite Graph I have made
+
+A graph that I had made that I was proud of was a plot comparing PFF Grades, used to assess football players abilities compared across a players year in college and draft status. I used this to determine if PFF Grades could signal draft status and when in a given players career is it noticeable.
+
+
+
+## Link to CV
+
+

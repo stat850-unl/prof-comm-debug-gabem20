@@ -1,12 +1,11 @@
 ---
-title: "Personal Slides"
+title: "Introduction Slides"
 format: 
   beamer: default
   revealjs: default
 editor: visual
 ---
 
-# Introduction Slides
 
 ## About Me
 
@@ -19,12 +18,13 @@ My favorite animal would have to be either a moose or mountain lion. No particul
 
 ![Favorite Animal](generated-image-1.png)
 
-## Favorite Graph I have made
+## Favorite Graph I Have Made
 
 A graph that I had made that I was proud of was a plot comparing PFF Grades, used to assess football players abilities compared across a players year in college and draft status. I used this to determine if PFF Grades could signal draft status and when in a given players career is it noticeable.
 
+![Favorite Graph](Screenshot 2024-09-29 190343.png)
 
 
 ## Link to CV
 
-
+https://drive.google.com/file/d/1-zlcYWagF3vowXzyS3Ng-unyMR_iFCec/view?usp=sharing
